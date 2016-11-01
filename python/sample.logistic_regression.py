@@ -1,3 +1,5 @@
+#! /usr/bin/python
+
 import numpy
 import theano
 import theano.tensor as T
